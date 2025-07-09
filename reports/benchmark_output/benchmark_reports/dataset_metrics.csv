@@ -1,0 +1,9 @@
+Dataset,ExecutionTime(ms),MemoryUsed(MB),InputTokens,OutputTokens,AnnotationTokensBefore,AnnotationTokensAfter,Methods,Fields,OldExpressions,Quantifiers,TokensPerSecond,ExpansionRatio,AnnotationExpansionRatio
+Account,129,0,00,90,119,29,55,1,1,1,0,697,67,1,32,1,90
+ArrayHelper,44,0,00,258,218,115,73,2,0,0,1,5863,64,0,84,0,63
+Max,28,0,00,113,113,62,62,1,0,0,0,4035,71,1,00,1,00
+MaxBad,33,0,00,113,113,62,62,1,0,0,0,3424,24,1,00,1,00
+MaxByElimination,34,0,00,331,331,99,99,1,0,0,5,9735,29,1,00,1,00
+MaxByEliminationBad,30,0,00,329,329,99,99,1,0,0,5,10966,67,1,00,1,00
+PositiveAccount,34,0,00,113,137,47,61,2,1,1,0,3323,53,1,21,1,30
+SafeDivider,34,0,00,122,127,34,34,2,0,0,0,3588,24,1,04,1,00

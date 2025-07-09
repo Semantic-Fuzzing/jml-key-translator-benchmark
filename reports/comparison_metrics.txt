@@ -1,0 +1,9 @@
+File                      InSizeKB OutSizeKB InTokens OutTokens InJMLAnn OutJMLAnn InMethods OutMethods InFields OutFields InOld    OutOld   InQuant  OutQuant InJMLTok
+SafeDivider.java          1        2        122      127      4        4        2        2        0        0        0        0        0        0        34      
+Account.java              1        1        90       119      2        3        1        1        1        1        1        0        0        0        29      
+MaxByEliminationBad.java  1        1        329      329      5        5        1        1        0        0        0        0        5        5        99      
+PositiveAccount.java      1        2        113      137      5        4        2        2        1        2        1        0        0        0        47      
+MaxBad.java               1        1        113      113      2        2        1        1        0        0        0        0        0        0        62      
+MaxByElimination.java     1        1        331      331      5        5        1        1        0        0        0        0        5        5        99      
+Max.java                  1        1        113      113      2        2        1        1        0        0        0        0        0        0        62      
+ArrayHelper.java          1        2        258      218      4        3        2        2        0        0        0        0        1        1        115     
