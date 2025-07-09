@@ -1,3 +1,16 @@
+# Authors and contributors
+
+The main contributor Roman R. Garipov, student of SPbPU ICSC.
+The advisor and contributor Vladimir A. Parkhomenko., Seniour Lecturer of SPbPU ICSC.
+
+# Introduction
+
+This is a translator from JML to KeY  to use Key UI program verificator.
+
+The project is completed during the preparation of Roman R. Garipov work under Testing of software at SPbPU Institute of Computer Science and Cybersecurity (SPbPU ICSC).
+
+
+
 JML Key Translator
 ====================
 
